@@ -11,7 +11,7 @@ are searching. Everyone in a match needs this version (0.3.0 players only match 
 
 | File | SHA-256 |
 | --- | --- |
-| `QuickMatch/QuickMatch.dll` | `594f9385c1723982af8207e93e0af229a235d8698b8e29b7261d591332e35408` |
+| `QuickMatch/QuickMatch.dll` | `66caccccb251a547d9fb0c076664fc4164dc32fc7d30bc7d3b52f6145b3bf055` |
 | `QuickMatch/QuickMatch.json` | `6042f9e77c6c3028f3da8c9770876d51043c6c50de87c519601a65673e24b62c` |
 
 ### Is it safe?
